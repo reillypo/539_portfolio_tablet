@@ -349,23 +349,6 @@ img{
     font-size: 25px;
 }
 
-
-
-/*Large Screens */
-/* @media(min-width: 700px){
-    .wrapper{
-        display: grid;
-        grid-template-columns: 1fr 2fr;
-    }
-    .wrapper > *{
-        padding: 2em;
-    }
-
-    .company_info h3, .company_info ul, .brand{
-        text-align: left;
-    }
-} */
-
 @media (min-width: 768px) and (max-width: 1199px){
     .wrapper{
         display: grid;
