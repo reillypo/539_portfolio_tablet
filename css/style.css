@@ -179,6 +179,7 @@ img{
     background-color: black;
     color: #ffffff;
     width: 100%;
+    max-height: 200px;
 }
 
 #resume_pic{
