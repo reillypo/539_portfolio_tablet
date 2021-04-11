@@ -90,14 +90,14 @@ setTimeout(() => {
 
 window.onscroll = function() {scrollFunction()};
 
-var header = document.querySelector("header");
+var nav = document.querySelector("nav");
 
-var sticky = header.offsetTop;
+var sticky = nav.offsetTop;
 
 function scrollFunction() {
   if (window.pageYOffset > sticky) {
-    header.classList.add("sticky");
+    nav.classList.add("sticky");
   } else {
-    header.classList.remove("sticky");
+    nav.classList.remove("sticky");
   }
 }
