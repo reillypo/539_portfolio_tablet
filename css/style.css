@@ -356,7 +356,7 @@ img{
     }
 } */
 
-@media (min-width: 600px){
+@media (min-width: 768px) and (max-width: 1112px){
     .wrapper{
         display: grid;
         grid-template-columns: 1fr 2fr;
