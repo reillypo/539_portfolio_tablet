@@ -68,6 +68,10 @@ hr{
     border-block-color: #A60707;
 }
 
+#hr_project_border{
+    width: 100%;
+    border-block-color: #A60707;
+}
 
 a.skip{
     background: white;
