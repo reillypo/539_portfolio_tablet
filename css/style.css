@@ -391,4 +391,8 @@ img{
         flex-direction: row;
         justify-content: space-evenly;
       }
+
+    .site_title{
+        font-size: 64px;
+    }
 }
