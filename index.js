@@ -88,6 +88,8 @@ setTimeout(() => {
     }
     setInterval(update, 1000);
 
+
+//making my nav_bar stick to the top of the window.
 window.onscroll = function() {scrollFunction()};
 
 var nav = document.querySelector("nav");
